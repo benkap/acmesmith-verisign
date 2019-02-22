@@ -1,6 +1,6 @@
 # acmesmith-verisign
 
-This gem is a plugin for [Acmesmith](https://github.com/sorah/acmesmith) and implements an automated `dns-01` challenge responder using Verisign MDNS REST API.
+A plugin for [Acmesmith](https://github.com/sorah/acmesmith) and implements an automated `dns-01` challenge responder using Verisign MDNS REST API.
 
 With this plugin and Acmesmith, you can automate and authorize your domain hosted on [Verisign MDNS Portal](https://mdns.verisign.com/mdns-web/login.xhtml) and request TLS certificates for the domains against [Let's Encrypt](https://letsencrypt.org/) and other CAs supporting the ACME protocol.
 
